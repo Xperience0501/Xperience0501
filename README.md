@@ -13,19 +13,18 @@
 ⚡ Fun fact: I love travelling and always want to explore new places.<br><br>
 
 ### Am also director in 2 companies:
-&emsp;&emsp; 1. DigitizeReal Technologies Private Limited
-&emsp;&emsp; 2. COSP Technologies Private Limited
+1. DigitizeReal Technologies Private Limited
+2. COSP Technologies Private Limited
 
 ### Have gained **7+ years** of experience working with the following companies:
-&emsp;&emsp; - Innovations Direct Employment Services, Dubai, U.A.E.
-&emsp;&emsp; - DigitizeReal Technologies Private Limited, New Delhi, India
-&emsp;&emsp; - Chimera Technologies Private Limited, Bangalore, India
-&emsp;&emsp; - COSP Technologies Private Limited, Bangalore, India
-&emsp;&emsp; - Hashedin by Deloitte, Bangalore, India
-&emsp;&emsp; - I-exceed Technology Solutions Private Limited, Bangalore, India
+- Innovations Direct Employment Services, Dubai, U.A.E.
+- DigitizeReal Technologies Private Limited, New Delhi, India
+- Chimera Technologies Private Limited, Bangalore, India
+- COSP Technologies Private Limited, Bangalore, India
+- Hashedin by Deloitte, Bangalore, India
+- I-exceed Technology Solutions Private Limited, Bangalore, India
 
 ### Languages and Tools:
-
 -  JavaScript
 -  TypeScript
 -  ReactJS
