@@ -1,4 +1,4 @@
-### Hi there, I'm Anubhav 👋
+### Hi there, I'm <span style="color: blue;">Anubhav</span> 👋
 
 ## I am a Senior Web Developer!
 
