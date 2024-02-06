@@ -10,7 +10,7 @@
 📫 How to reach me: <br>
 &emsp;&emsp; - You can shoot an email @ **anu3hav@gmail.com**<br>
 &emsp;&emsp; - Find me here on **[Linkedin](https://www.linkedin.com/in/anubhav-k-gupta/)**<br>
-⚡ Fun fact: I love travelling and always want to explore new places.<br><br>
+⚡ Fun fact: I love travelling and always want to explore new places.
 
 ### Am also director in 2 companies:
 1. DigitizeReal Technologies Private Limited
