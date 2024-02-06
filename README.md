@@ -41,6 +41,14 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+
+<details>
+<summary>Click to expand!</summary>
+
+Here goes all the detailed information you want to hide by default.
+
+</details>
+
 <!--
 **Xperience0501/Xperience0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
