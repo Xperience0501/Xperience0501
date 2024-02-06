@@ -46,10 +46,12 @@
 <summary>Click to expand!</summary>
 
 Here goes all the detailed information you want to hide by default.
-| Column 1 | Column 2 | Column 3 |
+|  | Column 3 |
 |----------|----------|----------|
 | Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Text     | Text     | ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+     |
 
 
 </details>
