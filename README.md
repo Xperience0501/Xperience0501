@@ -1,6 +1,6 @@
 ### Hi there, I'm Anubhav 👋
 
-##I am a Web Developer and had been an Entrepreneur
+## I am a Web Developer and had been an Entrepreneur
 
 🔭 I’m currently looking for a new job with a Senior / Lead Frontend role.<br>
 🌱 I’m currently learning AWS for Solutions Architect certification and Golang.<br>
