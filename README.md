@@ -1,6 +1,6 @@
 # Hi there, I'm Anubhav 👋
 
-<span style="font-size: 24px;">I am a Web Developer!</span>
+<span style="font-size: 34px;">I am a Web Developer!</span>
 
 🔭 I’m currently looking for a new job with a Senior / Lead Frontend role.<br>
 🌱 I’m currently learning AWS for Solutions Architect certification and Golang.<br>
