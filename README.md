@@ -7,7 +7,7 @@ I am a Web Developer!
 👯 I’m looking to collaborate on open source projects.<br>
 🤔 I’m looking for help with referals in Dubai for Senior / Lead Frontend role<br>
 💬 Ask me about JavaScript, ReactJS, NextJs, Frontend development and entrepreneurship.<br>
-📫 How to reach me: You can shoot an email @ anu3hav@gmail.com or can also find me on linkedin: https://www.linkedin.com/in/anubhav-k-gupta/<br>
+📫 How to reach me: <br>1. Email: You can shoot an email @ anu3hav@gmail.com<br>2. Linkedin: Find me here, https://www.linkedin.com/in/anubhav-k-gupta/<br>
 ⚡ Fun fact: I love travelling and want to explore new places.<br>
 
 <!--
