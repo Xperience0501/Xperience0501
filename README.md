@@ -8,8 +8,8 @@
 🤔 I’m looking for help with referals in Dubai for Senior / Lead Frontend role<br>
 💬 Ask me about **Frontend development** and **entrepreneurship**.<br>
 📫 How to reach me: <br>
-&emsp;&emsp; - **Email:** You can shoot an email @ **anu3hav@gmail.com**<br>
-&emsp;&emsp; - **Linkedin:** Find me here on **[Linkedin](https://www.linkedin.com/in/anubhav-k-gupta/)**<br>
+&emsp;&emsp; - You can shoot an email @ **anu3hav@gmail.com**<br>
+&emsp;&emsp; - Find me here on **[Linkedin](https://www.linkedin.com/in/anubhav-k-gupta/)**<br>
 ⚡ Fun fact: I love travelling and always want to explore new places.<br>
 
 <!--
