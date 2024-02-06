@@ -1,13 +1,13 @@
 # Hi there, I'm Anubhav 👋
 
-I am a Web Developer!
+<span style="font-size: 24px;">I am a Web Developer!</span>
 
 🔭 I’m currently looking for a new job with a Senior / Lead Frontend role.<br>
 🌱 I’m currently learning AWS for Solutions Architect certification and Golang.<br>
 👯 I’m looking to collaborate on open source projects.<br>
 🤔 I’m looking for help with referals in Dubai for Senior / Lead Frontend role<br>
 💬 Ask me about JavaScript, ReactJS, NextJs, Frontend development and entrepreneurship.<br>
-📫 How to reach me: <br>1. Email: You can shoot an email @ anu3hav@gmail.com<br>2. Linkedin: Find me here, https://www.linkedin.com/in/anubhav-k-gupta/<br>
+📫 How to reach me: <br>&emsp;1. Email: You can shoot an email @ anu3hav@gmail.com<br>&emsp;2. Linkedin: Find me here, https://www.linkedin.com/in/anubhav-k-gupta/<br>
 ⚡ Fun fact: I love travelling and want to explore new places.<br>
 
 <!--
