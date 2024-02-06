@@ -46,6 +46,11 @@
 <summary>Click to expand!</summary>
 
 Here goes all the detailed information you want to hide by default.
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
 
 </details>
 
